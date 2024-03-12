@@ -10,5 +10,9 @@ Currently, two official plugins are available:
 meet the react component
 -rendo la pagina piu semplice
 
-- React JSX (variable , label input , function return)
+- p.15 React JSX (variable , label input , function return)
+
 # road-to-react
+
+p.17 interview questions
+LIST IN REACT
